@@ -1,0 +1,5 @@
+Idealmetne los SDK deberian estar separados entre user y course. Pero para el curso estaran juntos para que sea mas simple la implementacion
+
+Instalaremos dos package
+go get github.com/IgnacioBO/go_http_client o go get -u github.com/IgnacioBO/go_http_client@v0.0.2 
+go get github.com/IgnacioBO/gomicro_domain/domain
