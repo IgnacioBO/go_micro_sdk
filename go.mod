@@ -1,10 +1,10 @@
 module github.com/IgnacioBO/go_micro_sdk
 
-go 1.23.4
+go 1.24
 
 require (
-	github.com/IgnacioBO/go_http_client v0.0.2
-	github.com/IgnacioBO/gomicro_domain v0.0.2
+	github.com/IgnacioBO/go_http_client v0.0.3
+	github.com/IgnacioBO/gomicro_domain v0.0.3
 )
 
 require (

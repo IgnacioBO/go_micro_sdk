@@ -1,7 +1,7 @@
-github.com/IgnacioBO/go_http_client v0.0.2 h1:c8pIUuMB4Vm6rJPrR49hhrjjQSz+MSov3xNJ2vILJmQ=
-github.com/IgnacioBO/go_http_client v0.0.2/go.mod h1:mMJQn0Q05DqMLjaGCyCcnnJyNm/5foprZ9L5J9ubkao=
-github.com/IgnacioBO/gomicro_domain v0.0.2 h1:FWpmYC7pAVXFT0MAo6L5U0Ia1Xx4AOpDDhVp/LsVxBo=
-github.com/IgnacioBO/gomicro_domain v0.0.2/go.mod h1:REIYVS2D0FWdq1gWgWA8qfoSiCBMhV6UcvMrXFiklOU=
+github.com/IgnacioBO/go_http_client v0.0.3 h1:f9Af3mq804IXLlGqAxmJ/ab8oOWDXWpGf1MMUv4bcgA=
+github.com/IgnacioBO/go_http_client v0.0.3/go.mod h1:mMJQn0Q05DqMLjaGCyCcnnJyNm/5foprZ9L5J9ubkao=
+github.com/IgnacioBO/gomicro_domain v0.0.3 h1:2CN1IPHI9NLPUeLu0qWsGr+AamCbDkmWz4UzuxwtPAo=
+github.com/IgnacioBO/gomicro_domain v0.0.3/go.mod h1:REIYVS2D0FWdq1gWgWA8qfoSiCBMhV6UcvMrXFiklOU=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
